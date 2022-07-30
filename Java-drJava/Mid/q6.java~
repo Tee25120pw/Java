@@ -1,0 +1,236 @@
+/*
+import java.util.*; //ข้อ1
+  
+public class q6{
+  public static void main(String[] args){
+    Scanner scan = new Scanner(System.in);
+    System.out.println("Enter the string : ");
+    String str1 = scan.nextLine();
+    int[] timeMain = new int[5];
+    char[] ch = {'A','E','I','O','U'};
+    timeMain = countStrAr(str1);
+    for(int k=0 ; k<timeMain.length ; k++){
+    System.out.println("Number of "+ch[k]+" : "+timeMain[k]);
+    }
+  }
+  public static int[] countStrAr(String str){
+    String str1 = str.toLowerCase();
+    int[] time = new int[5];
+    for(int j=0 ; j<str1.length() ; j++){
+      if      (str1.charAt(j)=='a'){ time[0] += 1; }
+      else if (str1.charAt(j)=='e'){ time[1] += 1; }
+      else if (str1.charAt(j)=='i'){ time[2] += 1; }
+      else if (str1.charAt(j)=='o'){ time[3] += 1; }
+      else if (str1.charAt(j)=='u'){ time[4] += 1; }
+    }
+    return time;
+  }
+}
+*/
+
+
+
+/*
+import java.util.Scanner;
+public class Q06_01_511 {
+  int sum=0;
+  public static void main(String[]args) {
+    Scanner sn = new Scanner(System.in);
+    System.out.print("Enter a binary number string: ");
+    int binary = sn.nextInt();
+    String binaryString = binary + "";
+    int sum = binaryToDecimal(binaryString,binary);
+    System.out.println("The decimal value is "+sum);
+  }
+  
+  public static int binaryToDecimal(String binaryString,int binary) {
+    int sum=0;
+    for(int i=0;i<binaryString.length();i++) {
+      int base = binary % 10;
+      binary = binary / 10;
+      int total = (int)((base)*Math.pow(2,i));
+      sum = sum + total;
+    }
+  return(sum); }
+  }
+*/ 
+  
+  
+
+/*
+import java.util.Scanner;
+public class q6 {
+  int sum=0;
+  public static void main(String[]args) {
+    Scanner sn = new Scanner(System.in);
+    System.out.print("Enter a binary number string: ");
+    int binary = sn.nextInt();
+    String binaryString = binary + "";
+    int sum = binaryToDecimal(binaryString,binary);
+    System.out.println("The decimal value is "+sum);
+    System.out.println(binaryString.length());
+    System.out.println("\n ");
+  }
+  
+  public static int binaryToDecimal(String binaryString,int binary) {
+    int sum=0;
+    for(int i=0;i<binaryString.length();i++) {
+      int base = binary % 10;
+      System.out.println("The base value is "+base);
+      binary = binary / 10;
+      System.out.println("The binary value is "+binary);
+      int total = (int)((base)*Math.pow(2,i));
+      System.out.println("The total value is "+total);
+      sum = sum + total;
+      System.out.println("The sum value is "+sum);      
+    }
+  return(sum); }
+  }
+*/
+
+
+
+/*
+import java.util.*;
+
+public class q6{
+  public static void main(String[] args){
+    Scanner scan = new Scanner(System.in);
+    System.out.print("Enter a binary number string : ");
+    String str = scan.nextLine();
+    System.out.println("The Decimal number is "+binaryToDecimal(str));
+  }
+  public static int binaryToDecimal(String binaryStr){
+    int length = binaryStr.length();
+    String binary = "";
+    int sumOfDecimal = 0;
+    for(int i=0 ; i<length ; i++){
+      if(binaryStr.charAt(i)=='0' || binaryStr.charAt(i)=='1'){
+        binary += binaryStr.charAt(i);
+        sumOfDecimal += ((Integer.parseInt(binary))*(Math.pow(2,(length-(i+1)))));
+        binary = ""; }  //เคลียค่าให้ว่างเพื่อรับตัวถัดไป
+    }
+    return sumOfDecimal;
+  }
+}
+*/
+
+
+
+
+import java.util.*; //ข้อ2
+  
+public class q6{
+  public static void main(String[] args){
+    Scanner scan = new Scanner(System.in);
+    System.out.println("Enter your message : ");
+    String str1 = scan.nextLine();
+    System.out.println("The summation of digits in this message is : "+sumDigits(str1));
+  }
+  public static int sumDigits(String str){
+    String digit = "";
+    int sum = 0; 
+    for(int i=0 ; i<str.length() ; i++){
+      if(str.charAt(i)>='0' && str.charAt(i)<='9'){
+        digit += str.charAt(i); //เป็นอักขระ
+        sum += Integer.parseInt(digit); //แปลงเป็นจำนวนเต็ม
+        digit = "";
+      }
+    }
+    return sum;
+  }
+}
+
+
+
+
+/*
+import java.util.Scanner;
+public class q6 {
+  int sum=0;
+  public static void main(String[]args) {
+    Scanner scan = new Scanner(System.in);
+    System.out.print("Enter a String : ");
+    String str = scan.nextLine();
+    System.out.print("Enter a character : ");
+    String ch = scan.nextLine();
+    int sum = countStr(str, ch);
+  System.out.print("Number of "+ch+" = "+sum);
+   System.out.println();
+  } 
+  
+  public static int countStr(String str,String ch) {
+    int sum=0;
+    for(int i=0;i<str.length();i++) {
+      if(str.charAt(i)==ch.charAt(0)) {
+        sum = sum+1; } }
+    return(sum);
+  }
+  }
+*/
+    
+    
+ 
+/*
+import java.util.Scanner; //ใช้นับจำนวนตัวซ้ำ
+public class q6 {
+  int sum=0;
+  public static void main(String[]args) {
+    Scanner scan = new Scanner(System.in);
+    System.out.print("Enter a String : ");
+    String str = scan.nextLine();
+    System.out.print("Enter a character : ");
+    String ch = scan.nextLine();
+    int sum = countStr(str, ch);
+  System.out.println("Number of "+ch+" = "+sum);
+  System.out.println(str.length());
+   System.out.println();
+  } 
+  
+  public static int countStr(String str,String ch) {
+    int sum=0; //Faculty of Engineering Srinakharinwirot
+    for(int i=0;i<str.length();i++) {
+      if(str.charAt(i)==ch.charAt(0)) {
+        sum = sum+1;
+        System.out.println("sum = "+sum); 
+      } 
+    }
+    return(sum);
+  }
+  }
+*/
+    
+
+
+
+/*
+import java.util.*;
+
+public class q6{
+  public static void main(String[] args){
+    Scanner scan = new Scanner(System.in);
+    System.out.print("Enter a string : ");
+    String str = scan.nextLine();
+    System.out.print("Enter a character : ");
+    char c = scan.next().charAt(0);//รูปแบบการรับแบบchar
+    System.out.println("Number of "+c+" = "+countStr(str,c));
+  }
+  public static int countStr(String str, char ch){
+    int time=0;
+    for(int i=0 ; i<str.length() ; i++){
+      if( str.charAt(i) == ch ){ time+=1; }
+    }
+    return time;
+  }
+}
+*/
+
+
+
+
+
+
+
+
+
+

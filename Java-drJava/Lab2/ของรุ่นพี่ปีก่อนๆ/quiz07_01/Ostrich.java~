@@ -1,0 +1,5 @@
+public class Ostrich {
+  public String howToFly() {
+    return "Ostrich is a big bird that cannot fly";
+  }
+}

@@ -1,0 +1,8 @@
+public class Chopper extends Motorcycle{ 
+  public Chopper(String model, String make, int year, int seat){
+    super(model, make, year, seat);
+  }
+  public String toString(){
+    return super.getMake()+", "+super.getModel()+", seating: "+super.getSeat()+", engine type: "+getEngineType()+".";
+  }
+}

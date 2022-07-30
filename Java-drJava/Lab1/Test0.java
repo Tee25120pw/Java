@@ -1,0 +1,24 @@
+import java.util.Scanner;
+import javax.swing.JOptionPane;
+public class Test0
+{ public static void main(String[]args)
+  { Scanner s = new Scanner(System.in);
+    int a,a1,a2,a3,b,b1,b2,b3,b4,b5,b6,b7,b8,b9;
+    System.out.print("Please enter a binary value in the format b9b8b7b6b5b4b3b2b1: ");
+    b = s.nextInt();
+    b9 = b/100000000;
+    b8 = (b%100000000)/10000000;
+    b7 = (b%10000000)/1000000;
+    b6 = (b%1000000)/100000;
+    b5 = (b%100000)/10000;
+    b4 = (b%10000)/1000;
+    b3 = (b%1000)/100;
+    b2 = (b%100)/10;
+    b1 = (b%10);
+    a1 = (b1*1)+(b2*2)+(b3*4);
+    a2 = (b4*1)+(b5*2)+(b6*4);
+    a3 = (b7*1)+(b8*2)+(b9*4);
+    a = a3*a2*a1;
+    JOptionPane.showMessageDialog(null, "Octal values = "+a+"","Message",JOptionPane.INFORMATION_MESSAGE);
+   }
+}

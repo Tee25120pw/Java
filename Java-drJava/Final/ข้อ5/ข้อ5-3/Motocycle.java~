@@ -1,0 +1,5 @@
+public class Motocycle extends Vehicle {
+  public String Motocycle(){
+    return "Motocycle : Wear a helmet and then ride a motocycle";}
+}
+  

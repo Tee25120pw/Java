@@ -1,0 +1,4 @@
+public class Circle implements CalArea, Calvolume{
+  public double area();
+  public double volume();
+}

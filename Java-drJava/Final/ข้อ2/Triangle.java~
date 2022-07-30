@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class Triangle implements CalArea, Drawable{
+  public double area(){
+    Scanner sn = new Scanner(System.in);
+    double b = sn.nextDouble();
+    System.out.println("I am triangle. I have 3 straight lines and 3 corners. My area is ",a);
+  }
+  
+  public String draw(){
+  System.out.println("Test draw");
+  }
+}

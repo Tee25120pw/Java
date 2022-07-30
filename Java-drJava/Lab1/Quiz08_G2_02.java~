@@ -1,0 +1,40 @@
+import java.awt.*;
+import javax.swing.*;
+
+public class Quiz08_G2_02 extends JPanel {
+  
+  public static void main(String[] args) {
+    JLabel number1 = new JLabel("Number 1");
+    JTextField tf1 = new JTextField(8);
+    JLabel number2 = new JLabel("Number 2");
+    JTextField tf2 = new JTextField(8);
+    JLabel result = new JLabel("Result");
+    JTextField tf3 = new JTextField(8);
+    
+    JButton a = new JButton("+");
+    JButton b = new JButton("-");
+    JButton c = new JButton("x");
+    JButton d = new JButton("/");
+    JButton e = new JButton(".");
+    JButton f = new JButton("%");
+    JButton g = new JButton("=");
+    
+    JPanel p = new JPanel();   p.setLayout(new GridLayout(2,2,7,7));
+    JPanel p1 = new JPanel();  p1.setLayout(new GridLayout(3,1));
+    p1.add(number1);  p1.add(number2);   p1.add(result);
+    
+    JPanel p2 = new JPanel();  p2.setLayout(new GridLayout(3,1));
+    p2.add(tf1);  p2.add(tf2);  p2.add(tf3);
+    
+    JPanel p3 = new JPanel();  p3.setLayout(new GridLayout(3,2));
+    p3.add(a);  p3.add(b);  p3.add(c);  p3.add(d);  p3.add(e);  p3.add(f);
+    
+    p.add(p1); p.add(p2); p.add(p3); p.add(g);
+    
+    JFrame frame = new JFrame("Calculator");
+    frame.add(p);
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setSize(200,200);
+    frame.setVisible(true);
+  }
+}

@@ -1,0 +1,75 @@
+import javax.swing.*; 
+import java.awt.*; 
+import java.awt.event.*;
+public class q7_2 extends JFrame{
+  private JButton jbteur = new JButton("Cone");
+  private JButton jbtjpy = new JButton("Cylinder");
+  
+  private JTextField v = new JTextField(8);
+  private JTextField bath = new JTextField(8);
+  private JTextField res = new JTextField(8);
+  
+  JLabel num0 = new JLabel(" รัศมี ");
+  JLabel num1 = new JLabel(" ความสูง ");
+  JLabel num2 = new JLabel(" พื้นที่ ");
+ 
+public q7_2(){
+  JPanel p0 = new JPanel();
+  p0.setLayout(new FlowLayout());
+  JPanel p1 = new JPanel();
+  p1.setLayout(new GridLayout(3,1));
+  JPanel p2 = new JPanel();
+  p2.setLayout(new GridLayout(2,1));
+  JPanel p3 = new JPanel();
+  p3.setLayout(new GridLayout(1,2));
+  
+  p1.add(num0);
+  p1.add(v);
+  p1.add(num1);
+  p1.add(bath);
+  p1.add(num2);
+  p1.add(res);
+  p0.add(p1);
+  
+  p2.add(jbteur);
+  p2.add(jbtjpy);
+  
+  p3.add(p0);
+  p3.add(p2);
+  //add to frame
+  add(p3);
+
+  jbteur.addActionListener(new Jbteur());
+  jbtjpy.addActionListener(new Jbtjpy());
+  }
+private class Jbteur implements ActionListener {
+    public void actionPerformed(ActionEvent e) {
+      //double n0,n1,x=0;
+      double n0 = Double.parseDouble(v.getText()); //textfill bath
+      double n1 = Double.parseDouble(bath.getText()); //textfill bath
+
+      //caculator ca = new caculator(n1,n2);
+      double x = 2*3.14*n0*(n0+n1);
+      res.setText(String.format("%.5f",x));
+    }
+  }
+private class Jbtjpy implements ActionListener {
+    public void actionPerformed(ActionEvent e) {
+      //double n0,n1,y=0;
+      double n0 = Double.parseDouble(v.getText()); //textfill bath
+      double n1 = Double.parseDouble(bath.getText()); //textfill bath
+      //caculator ca = new caculator(n1,n2);
+      double y =  (3.14*n0*n0)+(3.14*n0*( Math.sqrt((n0*n0)+(n1*n1))));
+      res.setText(String.format("%.5f",y));
+    }
+  }
+
+public static void main(String[] args){
+  Frame frame = new q7_2();
+  frame.setTitle("Area of Cylinder");
+  //frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+  frame.setSize(400,115);
+  frame.setLocationRelativeTo(null);
+  frame.setVisible(true);   
+ }
+}

@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+public class Main19 {
+ public static void main(String[] args) {
+  Scanner sn = new Scanner(System.in); // สร้างตัวแปรสำหรับรับค่าจากคีบอร์ด
+    string a = sn.nextLine();
+    a = a.toUpperCase();
+    System.out.println(a);
+ }
+}

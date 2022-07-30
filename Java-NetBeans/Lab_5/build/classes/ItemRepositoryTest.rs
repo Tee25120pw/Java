@@ -1,0 +1,1 @@
+com.devskiller.dao.ItemRepositoryTest

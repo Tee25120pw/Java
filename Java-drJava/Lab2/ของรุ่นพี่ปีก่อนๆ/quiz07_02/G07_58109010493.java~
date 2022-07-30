@@ -1,0 +1,21 @@
+class G07_58109010493{
+  public static void main(String[]args){
+    Car c = new Car();
+    Motocycle m =new Motocycle();
+    Taxi t = new Taxi();
+    System.out.println(c.drive());
+    System.out.println(m.drive());
+    System.out.println(t.drive());
+    System.out.println(t.howToPayMoney());
+    BTS b= new BTS();
+    System.out.println(b.howToPayMoney());
+    Bus bu= new Bus();
+    System.out.println(bu.howToPayMoney());
+    System.out.println(bu.howMuchRate());
+    Air a= new Air();
+    System.out.println(a.howMuchRate());
+    Fan f= new Fan();
+    System.out.println(f.howMuchRate());
+    
+  }
+}

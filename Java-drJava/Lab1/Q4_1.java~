@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class Q4_1
+{ public static void main(String[]asrg)
+  {Scanner s = new Scanner(System.in);
+   double spv;
+   System.out.print("Enter inner radius: ");
+   int radiusIn = s.nextInt();
+   System.out.print("Enter outer radius: ");
+   int radiusOut = s.nextInt();
+   spv = sphereVolumeDif(radiusOut,radiusIn);
+   System.out.printf("The different value of 2 sphere volume is: %.2f",spv);
+   s.close();
+  }
+
+  public static double sphereVolumeDif(double radiusOut,double radiusIn)
+  {
+    return (4/3)*Math.PI*Math.pow((radiusOut-radiusIn),3);
+    
+  }
+}
+   
+   

@@ -1,0 +1,74 @@
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+import javax.swing.border.TitledBorder;
+public class ex10_1 extends JFrame {
+  private JTextField num1 = new JTextField(5);
+  private JTextField num2 = new JTextField(5);
+  private JTextField re = new JTextField(5);
+  private JButton b1 = new JButton("Cone");
+  private JButton b2 = new JButton("Cylinder");
+
+  public ex10_1()
+  {
+    JPanel p1 = new JPanel(new FlowLayout());
+    p1.add(new JLabel("รัศมี"));
+    p1.add(num1);
+    p1.add(new JLabel("ความสูง"));
+    p1.add(num2);
+    p1.add(new JLabel("พื้นที่"));
+    p1.add(re);
+    p1.add(b1); p1.add(b2);
+    p1.add(b3); p1.add(b4);
+    add(p1);
+    b1.addActionListener(new ButtonListener());
+    b2.addActionListener(new ButtonListener1());
+    b3.addActionListener(new ButtonListener2());
+    b4.addActionListener(new ButtonListener3());
+  }
+  private class ButtonListener implements ActionListener{
+    public void actionPerformed(ActionEvent e){
+      double n1,n2;
+      n1 = Integer.parseInt(num1.getText());
+      n2 = Integer.parseInt(num2.getText());
+      caculator ca = new caculator(n1,n2);
+      re.setText(String.format("%.2f", ca.getAdd()));
+    }
+  }
+  private class ButtonListener1 implements ActionListener{
+    public void actionPerformed(ActionEvent e){
+      double n1,n2;
+      n1 = Integer.parseInt(num1.getText());
+      n2 = Integer.parseInt(num2.getText());
+      caculator ca = new caculator(n1,n2);
+      re.setText(String.format("%.2f", ca.getSubtract()));
+    }
+  }
+  private class ButtonListener2 implements ActionListener{
+    public void actionPerformed(ActionEvent e){
+      double n1,n2;
+      n1 = Integer.parseInt(num1.getText());
+      n2 = Integer.parseInt(num2.getText());
+      caculator ca = new caculator(n1,n2);
+      re.setText(String.format("%.2f", ca.getMultiply()));
+    }
+  }
+   private class ButtonListener3 implements ActionListener{
+    public void actionPerformed(ActionEvent e){
+      double n1,n2;
+      n1 = Integer.parseInt(num1.getText());
+      n2 = Integer.parseInt(num2.getText());
+      caculator ca = new caculator(n1,n2);
+      re.setText(String.format("%.2f", ca.getDivide()));
+    }
+  }
+  public static void main(String[] args)
+  {
+    ex10 frame = new ex10();
+    frame.setTitle("Excercise10");
+    frame.setSize(400,130);
+    frame.setLocationRelativeTo(null); // Center the frame
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setVisible(true);
+  }
+}

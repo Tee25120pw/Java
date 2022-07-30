@@ -1,0 +1,105 @@
+24 Jan 2021 14:51:43 GMT: Log 'EclipseCompiler.txt' opened: 24 Jan 2021 14:51:43 GMT with name E:\Java\EclipseCompiler.txt
+24 Jan 2021 14:51:58 GMT: diagnostics = javax.tools.DiagnosticCollector@1f4befe
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12f9c05
+fileObjects = [E:\Java\Bonus.java]
+24 Jan 2021 14:51:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f739b0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 14:51:59 GMT: Compiler call returned
+24 Jan 2021 14:51:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a1e1b
+24 Jan 2021 14:51:59 GMT:  Kind = WARNING
+24 Jan 2021 14:51:59 GMT: Name = E:\Java\Bonus.java LineNo = 4 ColNo = 11 Msg = 'Resource leak: 'Tep' is never closed'
+24 Jan 2021 15:02:24 GMT: diagnostics = javax.tools.DiagnosticCollector@2e35ea
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9ba6aa
+fileObjects = [E:\Java\Bonus.java]
+24 Jan 2021 15:02:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14def27' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:02:24 GMT: Compiler call returned
+24 Jan 2021 15:02:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@270a52
+24 Jan 2021 15:02:24 GMT:  Kind = ERROR
+24 Jan 2021 15:02:24 GMT: Name = E:\Java\Bonus.java LineNo = 8 ColNo = 14 Msg = 'The method println(int) in the type java.io.PrintStream is not applicable for the arguments (java.lang.String, int, int, int, int)'
+24 Jan 2021 15:02:53 GMT: diagnostics = javax.tools.DiagnosticCollector@121e8f1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d76809
+fileObjects = [E:\Java\Bonus.java]
+24 Jan 2021 15:02:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ce181' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:02:53 GMT: Compiler call returned
+24 Jan 2021 15:02:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@461cd3
+24 Jan 2021 15:02:53 GMT:  Kind = ERROR
+24 Jan 2021 15:02:53 GMT: Name = E:\Java\Bonus.java LineNo = 8 ColNo = 14 Msg = 'The method println(int) in the type java.io.PrintStream is not applicable for the arguments (java.lang.String, int, int, int, int)'
+24 Jan 2021 15:03:51 GMT: diagnostics = javax.tools.DiagnosticCollector@1ab9809
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@20d501
+fileObjects = [E:\Java\Bonus.java]
+24 Jan 2021 15:03:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9dbb06' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:03:51 GMT: Compiler call returned
+24 Jan 2021 15:03:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50e0a1
+24 Jan 2021 15:03:51 GMT:  Kind = ERROR
+24 Jan 2021 15:03:51 GMT: Name = E:\Java\Bonus.java LineNo = 8 ColNo = 14 Msg = 'The method println(int) in the type java.io.PrintStream is not applicable for the arguments (java.lang.String, int, int, int, int)'
+24 Jan 2021 15:04:06 GMT: diagnostics = javax.tools.DiagnosticCollector@17adde
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18eff28
+fileObjects = [E:\Java\Bonus.java]
+24 Jan 2021 15:04:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d00de2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:04:06 GMT: Compiler call returned
+24 Jan 2021 15:04:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b8663d
+24 Jan 2021 15:04:06 GMT:  Kind = ERROR
+24 Jan 2021 15:04:06 GMT: Name = E:\Java\Bonus.java LineNo = 8 ColNo = 14 Msg = 'The method println(int) in the type java.io.PrintStream is not applicable for the arguments (java.lang.String, int, int, int, int)'
+24 Jan 2021 15:05:22 GMT: diagnostics = javax.tools.DiagnosticCollector@1871158
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@159a69a
+fileObjects = [E:\Java\Bonus.java]
+24 Jan 2021 15:05:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cffb76' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:05:23 GMT: Compiler call returned
+24 Jan 2021 15:05:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d1c0b7
+24 Jan 2021 15:05:23 GMT:  Kind = ERROR
+24 Jan 2021 15:05:23 GMT: Name = E:\Java\Bonus.java LineNo = 8 ColNo = 101 Msg = 'Syntax error on token ")", delete this token'
+24 Jan 2021 15:06:10 GMT: diagnostics = javax.tools.DiagnosticCollector@4b1d0d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15c9935
+fileObjects = [E:\Java\Bonus.java]
+24 Jan 2021 15:06:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d9f26b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:06:10 GMT: Compiler call returned
+24 Jan 2021 15:06:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7acaa6
+24 Jan 2021 15:06:10 GMT:  Kind = ERROR
+24 Jan 2021 15:06:10 GMT: Name = E:\Java\Bonus.java LineNo = 8 ColNo = 14 Msg = 'The method println(int) in the type java.io.PrintStream is not applicable for the arguments (java.lang.String, int, int, int, int)'
+24 Jan 2021 15:07:35 GMT: diagnostics = javax.tools.DiagnosticCollector@1826712
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3aae8a
+fileObjects = [E:\Java\Bonus.java]
+24 Jan 2021 15:07:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1784cca' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:07:35 GMT: Compiler call returned
+24 Jan 2021 15:07:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56b26
+24 Jan 2021 15:07:35 GMT:  Kind = ERROR
+24 Jan 2021 15:07:35 GMT: Name = E:\Java\Bonus.java LineNo = 8 ColNo = 14 Msg = 'The method println(int) in the type java.io.PrintStream is not applicable for the arguments (java.lang.String, int, double, double, double)'
+24 Jan 2021 15:09:16 GMT: diagnostics = javax.tools.DiagnosticCollector@140e4f9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1745dac
+fileObjects = [E:\Java\Bonus.java]
+24 Jan 2021 15:09:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19c7dcc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:09:16 GMT: Compiler call returned
+24 Jan 2021 15:09:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c8a1ad
+24 Jan 2021 15:09:16 GMT:  Kind = ERROR
+24 Jan 2021 15:09:16 GMT: Name = E:\Java\Bonus.java LineNo = 8 ColNo = 14 Msg = 'The method println(int) in the type java.io.PrintStream is not applicable for the arguments (java.lang.String, int, int, int, int)'
+24 Jan 2021 15:11:01 GMT: diagnostics = javax.tools.DiagnosticCollector@1e6742b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17f3690
+fileObjects = [E:\Java\Bonus1.java]
+24 Jan 2021 15:11:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12d9e23' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:11:01 GMT: Compiler call returned
+24 Jan 2021 15:11:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73e098
+24 Jan 2021 15:11:01 GMT:  Kind = ERROR
+24 Jan 2021 15:11:01 GMT: Name = E:\Java\Bonus1.java LineNo = 8 ColNo = 14 Msg = 'The method println(int) in the type java.io.PrintStream is not applicable for the arguments (java.lang.String, int, int, int, int)'
+24 Jan 2021 15:11:21 GMT: diagnostics = javax.tools.DiagnosticCollector@628035
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3aad95
+fileObjects = [E:\Java\Bonus1.java]
+24 Jan 2021 15:11:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1bd8174' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:11:21 GMT: Compiler call returned
+24 Jan 2021 15:11:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c13c6e
+24 Jan 2021 15:11:21 GMT:  Kind = WARNING
+24 Jan 2021 15:11:21 GMT: Name = E:\Java\Bonus1.java LineNo = 5 ColNo = 11 Msg = 'Resource leak: 'sn' is never closed'
+24 Jan 2021 15:13:30 GMT: diagnostics = javax.tools.DiagnosticCollector@941210
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@626967
+fileObjects = [E:\Java\Bonus1.java]
+24 Jan 2021 15:13:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@21494e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:13:30 GMT: Compiler call returned
+24 Jan 2021 15:13:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e515f2
+24 Jan 2021 15:13:30 GMT:  Kind = WARNING
+24 Jan 2021 15:13:30 GMT: Name = E:\Java\Bonus1.java LineNo = 5 ColNo = 11 Msg = 'Resource leak: 'Tep' is never closed'
+24 Jan 2021 15:13:43 GMT: diagnostics = javax.tools.DiagnosticCollector@11eb6b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3edaf8
+fileObjects = [E:\Java\Bonus1.java]
+24 Jan 2021 15:13:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d8cff4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\Java;E:\CPE222\drjava-beta-20160913-225446.exe]
+24 Jan 2021 15:13:43 GMT: Compiler call returned
+24 Jan 2021 15:13:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@91575d
+24 Jan 2021 15:13:43 GMT:  Kind = WARNING
+24 Jan 2021 15:13:43 GMT: Name = E:\Java\Bonus1.java LineNo = 5 ColNo = 11 Msg = 'Resource leak: 'Tep' is never closed'

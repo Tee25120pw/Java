@@ -1,0 +1,17 @@
+import javax.swing.JOptionPane;
+import java.lang.Math;
+public class Ex3_5{
+  public static void main(String[] args){
+   int a = Integer.parseInt(JOptionPane.showInputDialog(null,"Enter the number of total students:","Input",JOptionPane.QUESTION_MESSAGE));
+   float b = Float.parseFloat(JOptionPane.showInputDialog(null,"Enter the scores of students No 1:","Input",JOptionPane.QUESTION_MESSAGE));
+   float c = Float.parseFloat(JOptionPane.showInputDialog(null,"Enter the scores of students No 2:","Input",JOptionPane.QUESTION_MESSAGE));
+   float d = Float.parseFloat(JOptionPane.showInputDialog(null,"Enter the scores of students No 3:","Input",JOptionPane.QUESTION_MESSAGE));
+   
+   double x = (b+c+d)/a;
+   JOptionPane.showMessageDialog(null,"Mean value of students score: "+x);
+   
+   double z = ((Math.pow((b-x),2)) + (Math.pow((c-x),2)) + (Math.pow((d-x),2)))/a;
+   double sd = Math.sqrt(z);
+   JOptionPane.showMessageDialog(null,"S.D. value of students score: "+sd);
+  }
+}

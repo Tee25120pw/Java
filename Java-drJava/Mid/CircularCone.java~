@@ -1,0 +1,55 @@
+public class CircularCone{
+  private double radius;
+  private double height;
+  private double side;
+  public CircularCone()
+  {
+    radius = 0;
+    height = 0;
+    side = 0;
+  }
+  public CircularCone(double r)
+  {
+    radius = x1;
+    height = x2;
+    side = x3;
+  }
+  public CircularCone(double r,double h)
+  {
+    radius = x1;
+    height = x2;
+    side = x3;
+  }
+  public double getCircularConeSurfaceArea()
+  {
+    return s1;
+  }
+  public double getCircularConeBaseArea()
+  {
+    return(s2);
+  }
+  public double getCircularConeBaseCircumference()
+  {
+    return(s3);
+  }
+  public double getVolume()
+  {
+    double a;
+    a = (s1*s2)/2;
+    return(a);
+  }
+  public void printCircularCone()
+  {
+    double b;
+    b = s1+s2+s3;
+    return(b);
+  }
+}
+  
+  
+  
+  
+  
+  
+  
+  

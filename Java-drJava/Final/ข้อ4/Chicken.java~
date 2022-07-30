@@ -1,0 +1,8 @@
+public class Chicken implements Edible{
+public String howtoeat(){
+  return"Chicken = Chicken:";
+ }
+public String sound(){
+  return"Fry it";
+ }
+}

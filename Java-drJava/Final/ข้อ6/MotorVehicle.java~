@@ -1,0 +1,12 @@
+class MotorVehicle{
+  protected String model;
+  protected String make;
+  protected int year;
+  protected int seats;
+  public MotorVehicle(String model,String make,int year,int seat);
+  public String getModel();
+  public String getMake();
+  public int getYear();
+  public int getSeat(); 
+}
+  

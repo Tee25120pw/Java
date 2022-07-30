@@ -1,0 +1,12 @@
+public interface Entertainer{
+public void sing();
+public void dance();
+}
+public class Student implements Entertainer{
+public void sing(){
+System.out.println("###Student can sing###");
+}
+public void dance(){
+System.out.println("###Student can dance###");
+}
+} 

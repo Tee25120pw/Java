@@ -1,0 +1,23 @@
+import java.util.Scanner;
+public class Q3_2{
+  public static void main(String[] args){
+   int i,x,y,a,b,c;
+   Scanner sn = new Scanner(System.in);
+   System.out.print("Please enter value of m : ");
+   int m = sn.nextInt();
+   System.out.print("Please enter value of n : ");
+   int n = sn.nextInt();  
+   for(i=m;i<=n;i++){
+     x = i/(i+1);
+     x += sn.nextInt();
+   }
+   for(i=m;i<=n;i++){
+     y = 2*(i*(i+1)/2)-n;
+     y += sn.nextInt();
+   }
+   x = sn.nextInt();
+   y = sn.nextInt();
+   c = x+y;
+   System.out.printf("The result of this summation is : "+c);
+  }
+}

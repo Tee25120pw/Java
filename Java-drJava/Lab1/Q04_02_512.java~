@@ -1,0 +1,25 @@
+import java.util.Scanner;
+public class Q04_02_512 
+{ public static void main(String[]asrg)
+  {Scanner sn = new Scanner(System.in);
+   double r,w,l,h,i,j,k;
+   System.out.print("Enter r,w,l,h : ");
+   r =sn.nextDouble();
+   w =sn.nextDouble();
+   l =sn.nextDouble();
+   h =sn.nextDouble();
+   i = calVolume(r);
+   j = calVolume(w,l,h);
+   System.out.printf("Show area of circle : %f \n",i);
+   System.out.printf("Show area of square : %f \n",j);
+  }
+
+  public static double calVolume(double r)
+  {
+    return ((4f/3f)*(Math.PI)*(Math.pow(r,3f)));
+  }  
+  public static double calVolume(double w,double l,double h)
+  {
+    return (w*l*h);
+  }
+}

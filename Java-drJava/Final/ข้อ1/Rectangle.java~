@@ -1,0 +1,12 @@
+public class Rectangle implements Drawable, CalVolume {
+  public String draw(){
+    return "I am rectangle. I have 4 straight lines and 3 corners."
+  }
+  public double volume(){
+    double b = 5;
+    double h = 5;
+    double a;
+    a = 1/2*b*h;
+    return "My area is"+a;
+  }
+}

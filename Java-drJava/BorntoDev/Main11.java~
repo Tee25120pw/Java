@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Main11 {
+ public static void main(String[] args) {
+  for (int i = 1; i < 5; i++) { // จำนวนชั้นของปิรามิด
+   for (int k = 1; k < 6); k++) { // วาด * เพิ่มขึ้นทีละหนึ่ง
+    System.out.print("*");
+   }
+   System.out.println();
+  }
+  System.out.println(); // เมื่อวาดเสร็จทำการขึ้นบรรทัดใหม่
+ }
+}

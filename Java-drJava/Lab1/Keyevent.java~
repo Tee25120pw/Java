@@ -1,0 +1,22 @@
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+public class Keyevent{
+  private char a;
+  public void keyPressed(Keyevent e)
+  {
+    
+  }
+  public void keyReleased(Keyevent e)
+  {
+    
+  }
+  public void keyType(Keyevent e)
+  {
+    
+  }
+  public char getKeyChar()
+  {
+    return a;
+  }
+}

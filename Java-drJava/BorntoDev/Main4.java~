@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+public class Main4 {
+ public static void main(String[] args) {
+  Scanner sn = new Scanner(System.in); // สร้างตัวแปรสำหรับรับค่าจากคีบอร์ด
+    int a = sn.nextString();
+    int b = sn.nextInt();
+    System.out.println(+ (int)Math.pow(a,b));
+ }
+}

@@ -1,0 +1,951 @@
+11 May 2020 18:20:30 GMT: Log 'EclipseCompiler.txt' opened: 11 May 2020 18:20:30 GMT with name D:\bas\java ex\ex10\EclipseCompiler.txt
+11 May 2020 18:21:07 GMT: diagnostics = javax.tools.DiagnosticCollector@882c44
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@148989f
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+11 May 2020 18:21:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a03658' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+11 May 2020 18:21:08 GMT: Compiler call returned
+11 May 2020 18:21:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26107
+11 May 2020 18:21:08 GMT:  Kind = ERROR
+11 May 2020 18:21:08 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 76 ColNo = 3 Msg = 'Syntax error, insert "}" to complete ClassBody'
+11 May 2020 18:21:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@183f390
+11 May 2020 18:21:08 GMT:  Kind = WARNING
+11 May 2020 18:21:08 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+11 May 2020 18:21:11 GMT: diagnostics = javax.tools.DiagnosticCollector@11b5e00
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b05c4a
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+11 May 2020 18:21:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e341a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+11 May 2020 18:21:11 GMT: Compiler call returned
+11 May 2020 18:21:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@db3670
+11 May 2020 18:21:11 GMT:  Kind = ERROR
+11 May 2020 18:21:11 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 76 ColNo = 3 Msg = 'Syntax error, insert "}" to complete ClassBody'
+11 May 2020 18:21:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b4c8ba
+11 May 2020 18:21:11 GMT:  Kind = WARNING
+11 May 2020 18:21:11 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+11 May 2020 18:21:22 GMT: diagnostics = javax.tools.DiagnosticCollector@1707944
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6a8879
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+11 May 2020 18:21:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f3f83b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+11 May 2020 18:21:22 GMT: Compiler call returned
+11 May 2020 18:21:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19aa65e
+11 May 2020 18:21:22 GMT:  Kind = WARNING
+11 May 2020 18:21:22 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+11 May 2020 18:21:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@155c802
+11 May 2020 18:21:22 GMT:  Kind = WARNING
+11 May 2020 18:21:22 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+12 May 2020 14:09:47 GMT: Log 'EclipseCompiler.txt' opened: 12 May 2020 14:09:47 GMT with name D:\bas\java ex\ex10\EclipseCompiler.txt
+12 May 2020 14:10:02 GMT: diagnostics = javax.tools.DiagnosticCollector@142feb1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d7cb87
+fileObjects = [D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:10:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9250ca' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:10:03 GMT: Compiler call returned
+12 May 2020 14:10:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ad2fd
+12 May 2020 14:10:03 GMT:  Kind = WARNING
+12 May 2020 14:10:03 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:10:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e38b06
+12 May 2020 14:10:03 GMT:  Kind = WARNING
+12 May 2020 14:10:03 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+12 May 2020 14:16:06 GMT: diagnostics = javax.tools.DiagnosticCollector@15d9623
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e0ad46
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:16:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@806b5a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:16:06 GMT: Compiler call returned
+12 May 2020 14:16:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12fcab6
+12 May 2020 14:16:06 GMT:  Kind = ERROR
+12 May 2020 14:16:06 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 93 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+12 May 2020 14:16:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@142371
+12 May 2020 14:16:06 GMT:  Kind = ERROR
+12 May 2020 14:16:06 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 84 ColNo = 22 Msg = 'The method main cannot be declared static; static methods can only be declared in a static or top level type'
+12 May 2020 14:16:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2755c9
+12 May 2020 14:16:06 GMT:  Kind = ERROR
+12 May 2020 14:16:06 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 20 Msg = 'Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration'
+12 May 2020 14:16:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8c1aca
+12 May 2020 14:16:06 GMT:  Kind = ERROR
+12 May 2020 14:16:06 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 20 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+12 May 2020 14:16:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11d0a97
+12 May 2020 14:16:06 GMT:  Kind = ERROR
+12 May 2020 14:16:06 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 55 ColNo = 5 Msg = 'Syntax error, insert ")" to complete Expression'
+12 May 2020 14:16:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59a3ae
+12 May 2020 14:16:06 GMT:  Kind = ERROR
+12 May 2020 14:16:06 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 55 ColNo = 5 Msg = 'Syntax error, insert ";" to complete Statement'
+12 May 2020 14:16:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2633f1
+12 May 2020 14:16:06 GMT:  Kind = WARNING
+12 May 2020 14:16:06 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:16:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@983935
+12 May 2020 14:16:06 GMT:  Kind = ERROR
+12 May 2020 14:16:06 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 30 Msg = 'ButtonListener1 cannot be resolved to a type'
+12 May 2020 14:16:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@156c4c3
+12 May 2020 14:16:06 GMT:  Kind = ERROR
+12 May 2020 14:16:06 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 29 ColNo = 30 Msg = 'ButtonListener2 cannot be resolved to a type'
+12 May 2020 14:16:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fb4594
+12 May 2020 14:16:06 GMT:  Kind = ERROR
+12 May 2020 14:16:06 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 30 ColNo = 30 Msg = 'ButtonListener3 cannot be resolved to a type'
+12 May 2020 14:16:23 GMT: diagnostics = javax.tools.DiagnosticCollector@189fb73
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@174ad48
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:16:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@242cab' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:16:23 GMT: Compiler call returned
+12 May 2020 14:16:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@355d5a
+12 May 2020 14:16:23 GMT:  Kind = ERROR
+12 May 2020 14:16:23 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 93 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+12 May 2020 14:16:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bc99ac
+12 May 2020 14:16:23 GMT:  Kind = ERROR
+12 May 2020 14:16:23 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 84 ColNo = 22 Msg = 'The method main cannot be declared static; static methods can only be declared in a static or top level type'
+12 May 2020 14:16:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19da582
+12 May 2020 14:16:23 GMT:  Kind = ERROR
+12 May 2020 14:16:23 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 20 Msg = 'Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration'
+12 May 2020 14:16:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f4f694
+12 May 2020 14:16:23 GMT:  Kind = ERROR
+12 May 2020 14:16:23 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 20 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+12 May 2020 14:16:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@113bbfd
+12 May 2020 14:16:23 GMT:  Kind = ERROR
+12 May 2020 14:16:23 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 55 ColNo = 5 Msg = 'Syntax error, insert ")" to complete Expression'
+12 May 2020 14:16:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1102b0a
+12 May 2020 14:16:23 GMT:  Kind = ERROR
+12 May 2020 14:16:23 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 55 ColNo = 5 Msg = 'Syntax error, insert ";" to complete Statement'
+12 May 2020 14:16:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f139df
+12 May 2020 14:16:23 GMT:  Kind = WARNING
+12 May 2020 14:16:23 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:16:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eb33e3
+12 May 2020 14:16:23 GMT:  Kind = ERROR
+12 May 2020 14:16:23 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 30 Msg = 'ButtonListener1 cannot be resolved to a type'
+12 May 2020 14:16:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17fbbf0
+12 May 2020 14:16:23 GMT:  Kind = ERROR
+12 May 2020 14:16:23 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 29 ColNo = 30 Msg = 'ButtonListener2 cannot be resolved to a type'
+12 May 2020 14:16:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@101942e
+12 May 2020 14:16:23 GMT:  Kind = ERROR
+12 May 2020 14:16:23 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 30 ColNo = 30 Msg = 'ButtonListener3 cannot be resolved to a type'
+12 May 2020 14:18:17 GMT: diagnostics = javax.tools.DiagnosticCollector@6552ed
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a848bf
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:18:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a6ac5d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:18:17 GMT: Compiler call returned
+12 May 2020 14:18:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b44ab4
+12 May 2020 14:18:17 GMT:  Kind = WARNING
+12 May 2020 14:18:17 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:18:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f80f1d
+12 May 2020 14:18:17 GMT:  Kind = WARNING
+12 May 2020 14:18:17 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+12 May 2020 14:18:34 GMT: diagnostics = javax.tools.DiagnosticCollector@6f0286
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a7723
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:18:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@33a940' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:18:34 GMT: Compiler call returned
+12 May 2020 14:18:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f718dc
+12 May 2020 14:18:34 GMT:  Kind = WARNING
+12 May 2020 14:18:34 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:18:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a7a6d5
+12 May 2020 14:18:34 GMT:  Kind = WARNING
+12 May 2020 14:18:34 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+12 May 2020 14:18:41 GMT: diagnostics = javax.tools.DiagnosticCollector@958d4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@29186e
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:18:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5ab1e5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:18:41 GMT: Compiler call returned
+12 May 2020 14:18:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8c5e91
+12 May 2020 14:18:41 GMT:  Kind = WARNING
+12 May 2020 14:18:41 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:19:39 GMT: diagnostics = javax.tools.DiagnosticCollector@1acc6ec
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3c871a
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:19:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18da9b5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:19:39 GMT: Compiler call returned
+12 May 2020 14:19:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3cb20b
+12 May 2020 14:19:39 GMT:  Kind = WARNING
+12 May 2020 14:19:39 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:22:27 GMT: diagnostics = javax.tools.DiagnosticCollector@2facda
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a24c7d
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:22:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@58b325' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:22:27 GMT: Compiler call returned
+12 May 2020 14:22:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ae41a7
+12 May 2020 14:22:27 GMT:  Kind = ERROR
+12 May 2020 14:22:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 93 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+12 May 2020 14:22:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@134dc1c
+12 May 2020 14:22:27 GMT:  Kind = ERROR
+12 May 2020 14:22:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 84 ColNo = 22 Msg = 'The method main cannot be declared static; static methods can only be declared in a static or top level type'
+12 May 2020 14:22:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70d0b9
+12 May 2020 14:22:27 GMT:  Kind = ERROR
+12 May 2020 14:22:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 20 Msg = 'Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration'
+12 May 2020 14:22:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@186dad7
+12 May 2020 14:22:27 GMT:  Kind = ERROR
+12 May 2020 14:22:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 20 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+12 May 2020 14:22:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13f0439
+12 May 2020 14:22:27 GMT:  Kind = ERROR
+12 May 2020 14:22:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 55 ColNo = 5 Msg = 'Syntax error, insert ")" to complete Expression'
+12 May 2020 14:22:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24eb7e
+12 May 2020 14:22:27 GMT:  Kind = ERROR
+12 May 2020 14:22:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 55 ColNo = 5 Msg = 'Syntax error, insert ";" to complete Statement'
+12 May 2020 14:22:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@45185b
+12 May 2020 14:22:27 GMT:  Kind = WARNING
+12 May 2020 14:22:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:22:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10226e6
+12 May 2020 14:22:27 GMT:  Kind = ERROR
+12 May 2020 14:22:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 30 Msg = 'ButtonListener1 cannot be resolved to a type'
+12 May 2020 14:22:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dffaf3
+12 May 2020 14:22:27 GMT:  Kind = ERROR
+12 May 2020 14:22:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 29 ColNo = 30 Msg = 'ButtonListener2 cannot be resolved to a type'
+12 May 2020 14:22:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@173880d
+12 May 2020 14:22:27 GMT:  Kind = ERROR
+12 May 2020 14:22:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 30 ColNo = 30 Msg = 'ButtonListener3 cannot be resolved to a type'
+12 May 2020 14:23:04 GMT: diagnostics = javax.tools.DiagnosticCollector@73b153
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@31064f
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:23:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@150a1e8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:23:04 GMT: Compiler call returned
+12 May 2020 14:23:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b7368d
+12 May 2020 14:23:04 GMT:  Kind = ERROR
+12 May 2020 14:23:04 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 20 Msg = 'Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration'
+12 May 2020 14:23:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@450d1b
+12 May 2020 14:23:04 GMT:  Kind = ERROR
+12 May 2020 14:23:04 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 20 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+12 May 2020 14:23:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@446940
+12 May 2020 14:23:04 GMT:  Kind = WARNING
+12 May 2020 14:23:04 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:23:13 GMT: diagnostics = javax.tools.DiagnosticCollector@8a2ec5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1044726
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:23:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fea3c9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:23:13 GMT: Compiler call returned
+12 May 2020 14:23:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1303bbe
+12 May 2020 14:23:13 GMT:  Kind = ERROR
+12 May 2020 14:23:13 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 19 Msg = 'Syntax error on token ".", : expected'
+12 May 2020 14:23:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ebc78b
+12 May 2020 14:23:13 GMT:  Kind = WARNING
+12 May 2020 14:23:13 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:25:05 GMT: diagnostics = javax.tools.DiagnosticCollector@f176f2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6f2889
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:25:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1db2411' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:25:05 GMT: Compiler call returned
+12 May 2020 14:25:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11912ae
+12 May 2020 14:25:05 GMT:  Kind = ERROR
+12 May 2020 14:25:05 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 35 Msg = 'Syntax error on token "{", case expected after this token'
+12 May 2020 14:25:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ed0952
+12 May 2020 14:25:05 GMT:  Kind = WARNING
+12 May 2020 14:25:05 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:25:27 GMT: diagnostics = javax.tools.DiagnosticCollector@14347e1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11e11b1
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:25:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17f8394' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:25:27 GMT: Compiler call returned
+12 May 2020 14:25:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fb30b6
+12 May 2020 14:25:27 GMT:  Kind = ERROR
+12 May 2020 14:25:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 45 ColNo = 29 Msg = 'Illegal modifier for the local class ButtonListener4; only abstract or final is permitted'
+12 May 2020 14:25:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b35d4
+12 May 2020 14:25:27 GMT:  Kind = ERROR
+12 May 2020 14:25:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 39 ColNo = 7 Msg = 'The method addKeyListenner(new java.awt.event.KeyAdapter(){}) is undefined for the type ex10.ButtonListener'
+12 May 2020 14:25:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1643f94
+12 May 2020 14:25:27 GMT:  Kind = WARNING
+12 May 2020 14:25:27 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:31:04 GMT: diagnostics = javax.tools.DiagnosticCollector@167ac59
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c7925e
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java, D:\bas\java ex\ex10\Keyevent.java]
+12 May 2020 14:31:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1aa62bc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:31:04 GMT: Compiler call returned
+12 May 2020 14:31:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aaee53
+12 May 2020 14:31:04 GMT:  Kind = ERROR
+12 May 2020 14:31:04 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 19 Msg = 'Syntax error on token ".", : expected'
+12 May 2020 14:31:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@180671a
+12 May 2020 14:31:04 GMT:  Kind = WARNING
+12 May 2020 14:31:04 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:31:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f9d2ff
+12 May 2020 14:31:04 GMT:  Kind = WARNING
+12 May 2020 14:31:04 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 1 ColNo = 8 Msg = 'The import java.awt is never used'
+12 May 2020 14:31:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1191833
+12 May 2020 14:31:04 GMT:  Kind = WARNING
+12 May 2020 14:31:04 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 2 ColNo = 8 Msg = 'The import java.awt.event is never used'
+12 May 2020 14:31:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56b0b5
+12 May 2020 14:31:04 GMT:  Kind = WARNING
+12 May 2020 14:31:04 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 3 ColNo = 8 Msg = 'The import javax.swing is never used'
+12 May 2020 14:32:30 GMT: diagnostics = javax.tools.DiagnosticCollector@2cc85f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bf2c97
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java, D:\bas\java ex\ex10\Keyevent.java]
+12 May 2020 14:32:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f2acf9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:32:30 GMT: Compiler call returned
+12 May 2020 14:32:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7eab3e
+12 May 2020 14:32:30 GMT:  Kind = WARNING
+12 May 2020 14:32:30 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:32:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@41b786
+12 May 2020 14:32:30 GMT:  Kind = WARNING
+12 May 2020 14:32:30 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+12 May 2020 14:32:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f05f7d
+12 May 2020 14:32:30 GMT:  Kind = ERROR
+12 May 2020 14:32:30 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 11 ColNo = 19 Msg = 'Syntax error on token ".", : expected'
+12 May 2020 14:32:36 GMT: diagnostics = javax.tools.DiagnosticCollector@917c71
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a713e2
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java, D:\bas\java ex\ex10\Keyevent.java]
+12 May 2020 14:32:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9645e3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:32:36 GMT: Compiler call returned
+12 May 2020 14:32:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15c0d84
+12 May 2020 14:32:36 GMT:  Kind = WARNING
+12 May 2020 14:32:36 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:32:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e75e3f
+12 May 2020 14:32:36 GMT:  Kind = WARNING
+12 May 2020 14:32:36 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+12 May 2020 14:32:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12967ed
+12 May 2020 14:32:36 GMT:  Kind = ERROR
+12 May 2020 14:32:36 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 11 ColNo = 20 Msg = 'Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration'
+12 May 2020 14:32:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17ad94
+12 May 2020 14:32:36 GMT:  Kind = ERROR
+12 May 2020 14:32:36 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 11 ColNo = 20 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+12 May 2020 14:32:39 GMT: diagnostics = javax.tools.DiagnosticCollector@15c47d5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@120cf75
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java, D:\bas\java ex\ex10\Keyevent.java]
+12 May 2020 14:32:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b22e7e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:32:39 GMT: Compiler call returned
+12 May 2020 14:32:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e4ffba
+12 May 2020 14:32:39 GMT:  Kind = WARNING
+12 May 2020 14:32:39 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:32:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e4a450
+12 May 2020 14:32:39 GMT:  Kind = WARNING
+12 May 2020 14:32:39 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+12 May 2020 14:32:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d361b5
+12 May 2020 14:32:39 GMT:  Kind = ERROR
+12 May 2020 14:32:39 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 11 ColNo = 20 Msg = 'Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration'
+12 May 2020 14:33:26 GMT: diagnostics = javax.tools.DiagnosticCollector@7829c3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@138c6d4
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java, D:\bas\java ex\ex10\Keyevent.java]
+12 May 2020 14:33:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16065f1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:33:26 GMT: Compiler call returned
+12 May 2020 14:33:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e1229
+12 May 2020 14:33:26 GMT:  Kind = WARNING
+12 May 2020 14:33:26 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:33:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19c83a0
+12 May 2020 14:33:26 GMT:  Kind = WARNING
+12 May 2020 14:33:26 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+12 May 2020 14:33:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ae6968
+12 May 2020 14:33:26 GMT:  Kind = ERROR
+12 May 2020 14:33:26 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 14 ColNo = 27 Msg = 'Illegal modifier for the local class ButtonListener4; only abstract or final is permitted'
+12 May 2020 14:33:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e8e217
+12 May 2020 14:33:26 GMT:  Kind = ERROR
+12 May 2020 14:33:26 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 17 ColNo = 39 Msg = 'num1 cannot be resolved'
+12 May 2020 14:33:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e16ef9
+12 May 2020 14:33:26 GMT:  Kind = ERROR
+12 May 2020 14:33:26 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 18 ColNo = 39 Msg = 'num2 cannot be resolved'
+12 May 2020 14:33:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14d7f86
+12 May 2020 14:33:26 GMT:  Kind = ERROR
+12 May 2020 14:33:26 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 20 ColNo = 17 Msg = 're cannot be resolved'
+12 May 2020 14:33:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b7a52e
+12 May 2020 14:33:26 GMT:  Kind = ERROR
+12 May 2020 14:33:26 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 8 ColNo = 5 Msg = 'The method addKeyListenner(new java.awt.event.KeyAdapter(){}) is undefined for the type Keyevent'
+12 May 2020 14:33:52 GMT: diagnostics = javax.tools.DiagnosticCollector@36aa85
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b54981
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java, D:\bas\java ex\ex10\Keyevent.java]
+12 May 2020 14:33:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2dc168' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:33:52 GMT: Compiler call returned
+12 May 2020 14:33:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11bb2d3
+12 May 2020 14:33:52 GMT:  Kind = WARNING
+12 May 2020 14:33:52 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:33:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f9a679
+12 May 2020 14:33:52 GMT:  Kind = WARNING
+12 May 2020 14:33:52 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+12 May 2020 14:33:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fbf4c0
+12 May 2020 14:33:52 GMT:  Kind = WARNING
+12 May 2020 14:33:52 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 4 ColNo = 14 Msg = 'The serializable class Keyevent does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:33:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@133dc32
+12 May 2020 14:33:52 GMT:  Kind = ERROR
+12 May 2020 14:33:52 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 14 ColNo = 27 Msg = 'Illegal modifier for the local class ButtonListener4; only abstract or final is permitted'
+12 May 2020 14:33:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1887f6d
+12 May 2020 14:33:52 GMT:  Kind = ERROR
+12 May 2020 14:33:52 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 17 ColNo = 39 Msg = 'num1 cannot be resolved'
+12 May 2020 14:33:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18ed90b
+12 May 2020 14:33:52 GMT:  Kind = ERROR
+12 May 2020 14:33:52 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 18 ColNo = 39 Msg = 'num2 cannot be resolved'
+12 May 2020 14:33:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1396bce
+12 May 2020 14:33:52 GMT:  Kind = ERROR
+12 May 2020 14:33:52 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 20 ColNo = 17 Msg = 're cannot be resolved'
+12 May 2020 14:33:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50f317
+12 May 2020 14:33:52 GMT:  Kind = ERROR
+12 May 2020 14:33:52 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 8 ColNo = 5 Msg = 'The method addKeyListenner(new java.awt.event.KeyAdapter(){}) is undefined for the type Keyevent'
+12 May 2020 14:39:19 GMT: diagnostics = javax.tools.DiagnosticCollector@c48c8c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@140a89f
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java, D:\bas\java ex\ex10\Keyevent.java]
+12 May 2020 14:39:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2a95c6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:39:19 GMT: Compiler call returned
+12 May 2020 14:39:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fde597
+12 May 2020 14:39:19 GMT:  Kind = ERROR
+12 May 2020 14:39:19 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 41 ColNo = 17 Msg = 'The type ex10.KeyListener must implement the inherited abstract method java.awt.event.ActionListener.actionPerformed(java.awt.event.ActionEvent)'
+12 May 2020 14:39:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@298f13
+12 May 2020 14:39:19 GMT:  Kind = ERROR
+12 May 2020 14:39:19 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 51 ColNo = 18 Msg = 'keyChar cannot be resolved to a variable'
+12 May 2020 14:39:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e17733
+12 May 2020 14:39:19 GMT:  Kind = WARNING
+12 May 2020 14:39:19 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:39:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@39f0d5
+12 May 2020 14:39:19 GMT:  Kind = WARNING
+12 May 2020 14:39:19 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 41 ColNo = 17 Msg = 'The type ex10.KeyListener is never used locally'
+12 May 2020 14:39:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1377398
+12 May 2020 14:39:19 GMT:  Kind = ERROR
+12 May 2020 14:39:19 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 14 ColNo = 27 Msg = 'Illegal modifier for the local class ButtonListener4; only abstract or final is permitted'
+12 May 2020 14:39:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ae21fa
+12 May 2020 14:39:19 GMT:  Kind = ERROR
+12 May 2020 14:39:19 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 17 ColNo = 39 Msg = 'num1 cannot be resolved'
+12 May 2020 14:39:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@539b53
+12 May 2020 14:39:19 GMT:  Kind = ERROR
+12 May 2020 14:39:19 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 18 ColNo = 39 Msg = 'num2 cannot be resolved'
+12 May 2020 14:39:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15f6514
+12 May 2020 14:39:19 GMT:  Kind = ERROR
+12 May 2020 14:39:19 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 20 ColNo = 17 Msg = 're cannot be resolved'
+12 May 2020 14:39:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ec7294
+12 May 2020 14:39:19 GMT:  Kind = ERROR
+12 May 2020 14:39:19 GMT: Name = D:\bas\java ex\ex10\Keyevent.java LineNo = 8 ColNo = 5 Msg = 'The method addKeyListenner(new java.awt.event.KeyAdapter(){}) is undefined for the type Keyevent'
+12 May 2020 14:39:29 GMT: diagnostics = javax.tools.DiagnosticCollector@251445
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e2b46b
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:39:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1170e3e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:39:29 GMT: Compiler call returned
+12 May 2020 14:39:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74476d
+12 May 2020 14:39:29 GMT:  Kind = ERROR
+12 May 2020 14:39:29 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 41 ColNo = 17 Msg = 'The type ex10.KeyListener must implement the inherited abstract method java.awt.event.ActionListener.actionPerformed(java.awt.event.ActionEvent)'
+12 May 2020 14:39:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8bf35c
+12 May 2020 14:39:29 GMT:  Kind = ERROR
+12 May 2020 14:39:29 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 51 ColNo = 18 Msg = 'keyChar cannot be resolved to a variable'
+12 May 2020 14:39:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f21ad3
+12 May 2020 14:39:29 GMT:  Kind = WARNING
+12 May 2020 14:39:29 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:39:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1573687
+12 May 2020 14:39:29 GMT:  Kind = WARNING
+12 May 2020 14:39:29 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 41 ColNo = 17 Msg = 'The type ex10.KeyListener is never used locally'
+12 May 2020 14:40:11 GMT: diagnostics = javax.tools.DiagnosticCollector@1551caf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a5533c
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:40:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@337ed5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:40:11 GMT: Compiler call returned
+12 May 2020 14:40:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67db9b
+12 May 2020 14:40:11 GMT:  Kind = ERROR
+12 May 2020 14:40:11 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 41 ColNo = 17 Msg = 'The type ex10.KeyListener must implement the inherited abstract method java.awt.event.ActionListener.actionPerformed(java.awt.event.ActionEvent)'
+12 May 2020 14:40:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ee83db
+12 May 2020 14:40:11 GMT:  Kind = WARNING
+12 May 2020 14:40:11 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:40:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b3972a
+12 May 2020 14:40:11 GMT:  Kind = WARNING
+12 May 2020 14:40:11 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 41 ColNo = 17 Msg = 'The type ex10.KeyListener is never used locally'
+12 May 2020 14:40:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c6235
+12 May 2020 14:40:11 GMT:  Kind = WARNING
+12 May 2020 14:40:11 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:40:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d1d8a4
+12 May 2020 14:40:11 GMT:  Kind = WARNING
+12 May 2020 14:40:11 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 17 Msg = 'The method keyPressed(java.awt.event.KeyEvent) from the type ex10.KeyListener is never used locally'
+12 May 2020 14:40:38 GMT: diagnostics = javax.tools.DiagnosticCollector@18d223d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18a9a85
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:40:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f80718' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:40:38 GMT: Compiler call returned
+12 May 2020 14:40:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59e45b
+12 May 2020 14:40:38 GMT:  Kind = ERROR
+12 May 2020 14:40:38 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 41 ColNo = 40 Msg = 'Cycle detected: the type ex10.KeyListener cannot extend/implement itself or one of its own member types'
+12 May 2020 14:40:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d4100d
+12 May 2020 14:40:38 GMT:  Kind = WARNING
+12 May 2020 14:40:38 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:40:46 GMT: diagnostics = javax.tools.DiagnosticCollector@435380
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7f600a
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:40:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b1639f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:40:46 GMT: Compiler call returned
+12 May 2020 14:40:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16a1e85
+12 May 2020 14:40:46 GMT:  Kind = ERROR
+12 May 2020 14:40:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 41 ColNo = 17 Msg = 'The type ex10.KeyListener must implement the inherited abstract method java.awt.event.ActionListener.actionPerformed(java.awt.event.ActionEvent)'
+12 May 2020 14:40:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9a9939
+12 May 2020 14:40:46 GMT:  Kind = WARNING
+12 May 2020 14:40:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:40:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1412fbd
+12 May 2020 14:40:46 GMT:  Kind = WARNING
+12 May 2020 14:40:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 41 ColNo = 17 Msg = 'The type ex10.KeyListener is never used locally'
+12 May 2020 14:40:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9dbabc
+12 May 2020 14:40:46 GMT:  Kind = WARNING
+12 May 2020 14:40:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:40:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f202dc
+12 May 2020 14:40:46 GMT:  Kind = WARNING
+12 May 2020 14:40:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 17 Msg = 'The method keyPressed(java.awt.event.KeyEvent) from the type ex10.KeyListener is never used locally'
+12 May 2020 14:42:14 GMT: diagnostics = javax.tools.DiagnosticCollector@1ddb235
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12b1a20
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:42:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e1684d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:42:14 GMT: Compiler call returned
+12 May 2020 14:42:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a95f49
+12 May 2020 14:42:14 GMT:  Kind = ERROR
+12 May 2020 14:42:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 41 ColNo = 16 Msg = 'The type ex10.KeyListener must implement the inherited abstract method java.awt.event.ActionListener.actionPerformed(java.awt.event.ActionEvent)'
+12 May 2020 14:42:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10c04df
+12 May 2020 14:42:14 GMT:  Kind = ERROR
+12 May 2020 14:42:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 47 ColNo = 33 Msg = 'Cannot make a static reference to the non-static field num1'
+12 May 2020 14:42:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@107098a
+12 May 2020 14:42:14 GMT:  Kind = ERROR
+12 May 2020 14:42:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 48 ColNo = 33 Msg = 'Cannot make a static reference to the non-static field num2'
+12 May 2020 14:42:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51564
+12 May 2020 14:42:14 GMT:  Kind = ERROR
+12 May 2020 14:42:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 50 ColNo = 11 Msg = 'Cannot make a static reference to the non-static field re'
+12 May 2020 14:42:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1394afa
+12 May 2020 14:42:14 GMT:  Kind = WARNING
+12 May 2020 14:42:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:42:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@408afe
+12 May 2020 14:42:14 GMT:  Kind = WARNING
+12 May 2020 14:42:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:45:14 GMT: diagnostics = javax.tools.DiagnosticCollector@1f7bfb2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7f5333
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:45:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c83565' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:45:14 GMT: Compiler call returned
+12 May 2020 14:45:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d6578
+12 May 2020 14:45:14 GMT:  Kind = ERROR
+12 May 2020 14:45:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 12 Msg = 'Return type for the method is missing'
+12 May 2020 14:45:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f77ea5
+12 May 2020 14:45:14 GMT:  Kind = ERROR
+12 May 2020 14:45:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 49 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num1'
+12 May 2020 14:45:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@105f75b
+12 May 2020 14:45:14 GMT:  Kind = ERROR
+12 May 2020 14:45:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 50 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num2'
+12 May 2020 14:45:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@755122
+12 May 2020 14:45:14 GMT:  Kind = ERROR
+12 May 2020 14:45:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 52 ColNo = 15 Msg = 'Cannot make a static reference to the non-static field re'
+12 May 2020 14:45:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15ef3f1
+12 May 2020 14:45:14 GMT:  Kind = ERROR
+12 May 2020 14:45:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 44 ColNo = 7 Msg = 'Cannot make a static reference to the non-static method addKeyListener(java.awt.event.KeyListener) from the type java.awt.Component'
+12 May 2020 14:45:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dcb1a9
+12 May 2020 14:45:14 GMT:  Kind = WARNING
+12 May 2020 14:45:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:45:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1932766
+12 May 2020 14:45:14 GMT:  Kind = WARNING
+12 May 2020 14:45:14 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:45:42 GMT: diagnostics = javax.tools.DiagnosticCollector@1ba99f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12c9b0a
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:45:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1de4246' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:45:42 GMT: Compiler call returned
+12 May 2020 14:45:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e2ccd4
+12 May 2020 14:45:42 GMT:  Kind = ERROR
+12 May 2020 14:45:42 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 49 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num1'
+12 May 2020 14:45:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@121caef
+12 May 2020 14:45:42 GMT:  Kind = ERROR
+12 May 2020 14:45:42 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 50 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num2'
+12 May 2020 14:45:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d55c33
+12 May 2020 14:45:42 GMT:  Kind = ERROR
+12 May 2020 14:45:42 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 52 ColNo = 15 Msg = 'Cannot make a static reference to the non-static field re'
+12 May 2020 14:45:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@137d7fd
+12 May 2020 14:45:42 GMT:  Kind = ERROR
+12 May 2020 14:45:42 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 44 ColNo = 7 Msg = 'Cannot make a static reference to the non-static method addKeyListener(java.awt.event.KeyListener) from the type java.awt.Component'
+12 May 2020 14:45:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1db2f23
+12 May 2020 14:45:42 GMT:  Kind = WARNING
+12 May 2020 14:45:42 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:45:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dcf605
+12 May 2020 14:45:42 GMT:  Kind = WARNING
+12 May 2020 14:45:42 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:45:46 GMT: diagnostics = javax.tools.DiagnosticCollector@19e5e38
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@118c291
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:45:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1732c96' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:45:46 GMT: Compiler call returned
+12 May 2020 14:45:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@147649
+12 May 2020 14:45:46 GMT:  Kind = ERROR
+12 May 2020 14:45:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 5 Msg = 'publi cannot be resolved to a type'
+12 May 2020 14:45:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e95fef
+12 May 2020 14:45:46 GMT:  Kind = ERROR
+12 May 2020 14:45:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 49 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num1'
+12 May 2020 14:45:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14b1c00
+12 May 2020 14:45:46 GMT:  Kind = ERROR
+12 May 2020 14:45:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 50 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num2'
+12 May 2020 14:45:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13b8441
+12 May 2020 14:45:46 GMT:  Kind = ERROR
+12 May 2020 14:45:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 52 ColNo = 15 Msg = 'Cannot make a static reference to the non-static field re'
+12 May 2020 14:45:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f81dd1
+12 May 2020 14:45:46 GMT:  Kind = ERROR
+12 May 2020 14:45:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 44 ColNo = 7 Msg = 'Cannot make a static reference to the non-static method addKeyListener(java.awt.event.KeyListener) from the type java.awt.Component'
+12 May 2020 14:45:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12b2146
+12 May 2020 14:45:46 GMT:  Kind = WARNING
+12 May 2020 14:45:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:45:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f83bf
+12 May 2020 14:45:46 GMT:  Kind = WARNING
+12 May 2020 14:45:46 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:45:51 GMT: diagnostics = javax.tools.DiagnosticCollector@1bdf6ab
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@109c42d
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:45:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2df1af' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:45:51 GMT: Compiler call returned
+12 May 2020 14:45:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@158bd55
+12 May 2020 14:45:51 GMT:  Kind = ERROR
+12 May 2020 14:45:51 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 49 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num1'
+12 May 2020 14:45:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e18215
+12 May 2020 14:45:51 GMT:  Kind = ERROR
+12 May 2020 14:45:51 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 50 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num2'
+12 May 2020 14:45:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a0378d
+12 May 2020 14:45:51 GMT:  Kind = ERROR
+12 May 2020 14:45:51 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 52 ColNo = 15 Msg = 'Cannot make a static reference to the non-static field re'
+12 May 2020 14:45:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7514a0
+12 May 2020 14:45:51 GMT:  Kind = ERROR
+12 May 2020 14:45:51 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 44 ColNo = 7 Msg = 'Cannot make a static reference to the non-static method addKeyListener(java.awt.event.KeyListener) from the type java.awt.Component'
+12 May 2020 14:45:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d1b32e
+12 May 2020 14:45:51 GMT:  Kind = WARNING
+12 May 2020 14:45:51 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:45:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e86a0b
+12 May 2020 14:45:51 GMT:  Kind = WARNING
+12 May 2020 14:45:51 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:45:54 GMT: diagnostics = javax.tools.DiagnosticCollector@17221a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e86e97
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:45:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c4b5ef' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:45:54 GMT: Compiler call returned
+12 May 2020 14:45:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76ebc7
+12 May 2020 14:45:54 GMT:  Kind = ERROR
+12 May 2020 14:45:54 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 49 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num1'
+12 May 2020 14:45:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c534b2
+12 May 2020 14:45:54 GMT:  Kind = ERROR
+12 May 2020 14:45:54 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 50 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num2'
+12 May 2020 14:45:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@eda40e
+12 May 2020 14:45:54 GMT:  Kind = ERROR
+12 May 2020 14:45:54 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 52 ColNo = 15 Msg = 'Cannot make a static reference to the non-static field re'
+12 May 2020 14:45:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a3faf7
+12 May 2020 14:45:54 GMT:  Kind = ERROR
+12 May 2020 14:45:54 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 44 ColNo = 7 Msg = 'Cannot make a static reference to the non-static method addKeyListener(java.awt.event.KeyListener) from the type java.awt.Component'
+12 May 2020 14:45:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@721757
+12 May 2020 14:45:54 GMT:  Kind = WARNING
+12 May 2020 14:45:54 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:45:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70dacf
+12 May 2020 14:45:54 GMT:  Kind = WARNING
+12 May 2020 14:45:54 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:46:17 GMT: diagnostics = javax.tools.DiagnosticCollector@2b3c3c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13141e5
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:46:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@fcb0f6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:46:17 GMT: Compiler call returned
+12 May 2020 14:46:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bc22bb
+12 May 2020 14:46:17 GMT:  Kind = WARNING
+12 May 2020 14:46:17 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:46:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9f4d4e
+12 May 2020 14:46:17 GMT:  Kind = WARNING
+12 May 2020 14:46:17 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+12 May 2020 14:46:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@88dac2
+12 May 2020 14:46:17 GMT:  Kind = WARNING
+12 May 2020 14:46:17 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:47:02 GMT: diagnostics = javax.tools.DiagnosticCollector@b6356
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2a75c4
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:47:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@120a6b2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:47:02 GMT: Compiler call returned
+12 May 2020 14:47:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@88d0b4
+12 May 2020 14:47:02 GMT:  Kind = WARNING
+12 May 2020 14:47:02 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:47:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64cad6
+12 May 2020 14:47:02 GMT:  Kind = ERROR
+12 May 2020 14:47:02 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 8 Msg = 'The method addActionListener(java.awt.event.ActionListener) in the type javax.swing.AbstractButton is not applicable for the arguments (ex10.KeyListener)'
+12 May 2020 14:47:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4321c
+12 May 2020 14:47:02 GMT:  Kind = WARNING
+12 May 2020 14:47:02 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:47:42 GMT: diagnostics = javax.tools.DiagnosticCollector@557933
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13e6c4e
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:47:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f6e1c8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:47:42 GMT: Compiler call returned
+12 May 2020 14:47:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15c5cb9
+12 May 2020 14:47:42 GMT:  Kind = WARNING
+12 May 2020 14:47:42 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:47:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f84f0b
+12 May 2020 14:47:42 GMT:  Kind = ERROR
+12 May 2020 14:47:42 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 12 Msg = 'keyboardPanel cannot be resolved to a variable'
+12 May 2020 14:47:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1893abf
+12 May 2020 14:47:42 GMT:  Kind = WARNING
+12 May 2020 14:47:42 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:47:50 GMT: diagnostics = javax.tools.DiagnosticCollector@158b046
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4561c3
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:47:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18d8c27' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:47:50 GMT: Compiler call returned
+12 May 2020 14:47:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e2277f
+12 May 2020 14:47:50 GMT:  Kind = WARNING
+12 May 2020 14:47:50 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:47:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b99007
+12 May 2020 14:47:50 GMT:  Kind = ERROR
+12 May 2020 14:47:50 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 12 Msg = 'KeyboardPanel cannot be resolved to a variable'
+12 May 2020 14:47:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@183ec8
+12 May 2020 14:47:50 GMT:  Kind = WARNING
+12 May 2020 14:47:50 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:47:59 GMT: diagnostics = javax.tools.DiagnosticCollector@f6bab8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a0bdf5
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:47:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@60fcdf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:47:59 GMT: Compiler call returned
+12 May 2020 14:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f51c94
+12 May 2020 14:47:59 GMT:  Kind = WARNING
+12 May 2020 14:47:59 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15d1849
+12 May 2020 14:47:59 GMT:  Kind = ERROR
+12 May 2020 14:47:59 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 12 Msg = 'KeyboardPanel cannot be resolved to a variable'
+12 May 2020 14:47:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7940a9
+12 May 2020 14:47:59 GMT:  Kind = WARNING
+12 May 2020 14:47:59 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:48:28 GMT: diagnostics = javax.tools.DiagnosticCollector@f9fbe8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8d881d
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:48:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@112cb06' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:48:28 GMT: Compiler call returned
+12 May 2020 14:48:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cc32e0
+12 May 2020 14:48:28 GMT:  Kind = WARNING
+12 May 2020 14:48:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:48:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ba8fea
+12 May 2020 14:48:28 GMT:  Kind = ERROR
+12 May 2020 14:48:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 12 Msg = 'KeyboardPanel cannot be resolved to a variable'
+12 May 2020 14:48:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15f021f
+12 May 2020 14:48:28 GMT:  Kind = WARNING
+12 May 2020 14:48:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:48:39 GMT: diagnostics = javax.tools.DiagnosticCollector@134967
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bedd50
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:48:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7eeb92' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:48:39 GMT: Compiler call returned
+12 May 2020 14:48:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19e312e
+12 May 2020 14:48:39 GMT:  Kind = WARNING
+12 May 2020 14:48:39 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:48:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f4e13
+12 May 2020 14:48:39 GMT:  Kind = WARNING
+12 May 2020 14:48:39 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+12 May 2020 14:48:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14d710b
+12 May 2020 14:48:39 GMT:  Kind = WARNING
+12 May 2020 14:48:39 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 42 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:49:10 GMT: diagnostics = javax.tools.DiagnosticCollector@1895bdd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19005f0
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:49:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f1d659' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:49:10 GMT: Compiler call returned
+12 May 2020 14:49:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a1a130
+12 May 2020 14:49:10 GMT:  Kind = WARNING
+12 May 2020 14:49:10 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:49:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e0e28
+12 May 2020 14:49:10 GMT:  Kind = ERROR
+12 May 2020 14:49:10 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 12 Msg = 'KeyListener cannot be resolved to a variable'
+12 May 2020 14:49:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b134e
+12 May 2020 14:49:10 GMT:  Kind = WARNING
+12 May 2020 14:49:10 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:49:28 GMT: diagnostics = javax.tools.DiagnosticCollector@1f05b0e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@aa09b3
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:49:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cee474' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:49:28 GMT: Compiler call returned
+12 May 2020 14:49:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1334a63
+12 May 2020 14:49:28 GMT:  Kind = ERROR
+12 May 2020 14:49:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 50 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num1'
+12 May 2020 14:49:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d319ea
+12 May 2020 14:49:28 GMT:  Kind = ERROR
+12 May 2020 14:49:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 51 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num2'
+12 May 2020 14:49:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8c671a
+12 May 2020 14:49:28 GMT:  Kind = ERROR
+12 May 2020 14:49:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 53 ColNo = 15 Msg = 'Cannot make a static reference to the non-static field re'
+12 May 2020 14:49:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19ee0cc
+12 May 2020 14:49:28 GMT:  Kind = ERROR
+12 May 2020 14:49:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 45 ColNo = 7 Msg = 'Cannot make a static reference to the non-static method addKeyListener(java.awt.event.KeyListener) from the type java.awt.Component'
+12 May 2020 14:49:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f9dd0e
+12 May 2020 14:49:28 GMT:  Kind = WARNING
+12 May 2020 14:49:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:49:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a287b2
+12 May 2020 14:49:28 GMT:  Kind = ERROR
+12 May 2020 14:49:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 12 Msg = 'KeyboardPanel cannot be resolved to a variable'
+12 May 2020 14:49:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d383eb
+12 May 2020 14:49:28 GMT:  Kind = WARNING
+12 May 2020 14:49:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:49:35 GMT: diagnostics = javax.tools.DiagnosticCollector@1ff782
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fea2bf
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:49:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@222c94' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:49:35 GMT: Compiler call returned
+12 May 2020 14:49:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ea4cab
+12 May 2020 14:49:35 GMT:  Kind = ERROR
+12 May 2020 14:49:35 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 50 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num1'
+12 May 2020 14:49:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dec4af
+12 May 2020 14:49:35 GMT:  Kind = ERROR
+12 May 2020 14:49:35 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 51 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num2'
+12 May 2020 14:49:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17bec35
+12 May 2020 14:49:35 GMT:  Kind = ERROR
+12 May 2020 14:49:35 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 53 ColNo = 15 Msg = 'Cannot make a static reference to the non-static field re'
+12 May 2020 14:49:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8b678c
+12 May 2020 14:49:35 GMT:  Kind = ERROR
+12 May 2020 14:49:35 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 45 ColNo = 7 Msg = 'Cannot make a static reference to the non-static method addKeyListener(java.awt.event.KeyListener) from the type java.awt.Component'
+12 May 2020 14:49:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19def22
+12 May 2020 14:49:35 GMT:  Kind = WARNING
+12 May 2020 14:49:35 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:49:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f0a802
+12 May 2020 14:49:35 GMT:  Kind = ERROR
+12 May 2020 14:49:35 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 12 Msg = 'KeyListener cannot be resolved to a variable'
+12 May 2020 14:49:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16ee48d
+12 May 2020 14:49:35 GMT:  Kind = WARNING
+12 May 2020 14:49:35 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:49:38 GMT: diagnostics = javax.tools.DiagnosticCollector@17b586a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d67b36
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:49:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c98828' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:49:38 GMT: Compiler call returned
+12 May 2020 14:49:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@117d7e5
+12 May 2020 14:49:38 GMT:  Kind = ERROR
+12 May 2020 14:49:38 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 50 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num1'
+12 May 2020 14:49:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@709430
+12 May 2020 14:49:38 GMT:  Kind = ERROR
+12 May 2020 14:49:38 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 51 ColNo = 37 Msg = 'Cannot make a static reference to the non-static field num2'
+12 May 2020 14:49:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@153685
+12 May 2020 14:49:38 GMT:  Kind = ERROR
+12 May 2020 14:49:38 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 53 ColNo = 15 Msg = 'Cannot make a static reference to the non-static field re'
+12 May 2020 14:49:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b0fb50
+12 May 2020 14:49:38 GMT:  Kind = ERROR
+12 May 2020 14:49:38 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 45 ColNo = 7 Msg = 'Cannot make a static reference to the non-static method addKeyListener(java.awt.event.KeyListener) from the type java.awt.Component'
+12 May 2020 14:49:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ddafbc
+12 May 2020 14:49:38 GMT:  Kind = WARNING
+12 May 2020 14:49:38 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:49:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8271c3
+12 May 2020 14:49:38 GMT:  Kind = ERROR
+12 May 2020 14:49:38 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 12 Msg = 'KeyboardPanel cannot be resolved to a variable'
+12 May 2020 14:49:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1aec4c8
+12 May 2020 14:49:38 GMT:  Kind = WARNING
+12 May 2020 14:49:38 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:49:41 GMT: diagnostics = javax.tools.DiagnosticCollector@16c0288
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16ca7b6
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:49:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d3353b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:49:41 GMT: Compiler call returned
+12 May 2020 14:49:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5cb453
+12 May 2020 14:49:41 GMT:  Kind = WARNING
+12 May 2020 14:49:41 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:49:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65858c
+12 May 2020 14:49:41 GMT:  Kind = ERROR
+12 May 2020 14:49:41 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 28 ColNo = 12 Msg = 'KeyboardPanel cannot be resolved to a variable'
+12 May 2020 14:49:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d0042
+12 May 2020 14:49:41 GMT:  Kind = WARNING
+12 May 2020 14:49:41 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 43 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:50:36 GMT: diagnostics = javax.tools.DiagnosticCollector@1582536
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@918c9
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:50:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7ce5a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:50:36 GMT: Compiler call returned
+12 May 2020 14:50:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ceea00
+12 May 2020 14:50:36 GMT:  Kind = WARNING
+12 May 2020 14:50:36 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:50:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b9e42d
+12 May 2020 14:50:36 GMT:  Kind = ERROR
+12 May 2020 14:50:36 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 17 ColNo = 13 Msg = 'KeyboardPanel cannot be resolved to a type'
+12 May 2020 14:50:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@184476b
+12 May 2020 14:50:36 GMT:  Kind = ERROR
+12 May 2020 14:50:36 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 17 ColNo = 27 Msg = 'Illegal modifier for parameter key; only final is permitted'
+12 May 2020 14:50:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9c5b54
+12 May 2020 14:50:36 GMT:  Kind = ERROR
+12 May 2020 14:50:36 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 17 ColNo = 37 Msg = 'KeyboardPanel cannot be resolved to a type'
+12 May 2020 14:50:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b12a2d
+12 May 2020 14:50:36 GMT:  Kind = ERROR
+12 May 2020 14:50:36 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 29 ColNo = 12 Msg = 'KeyboardPanel cannot be resolved to a variable'
+12 May 2020 14:50:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9a2d7a
+12 May 2020 14:50:36 GMT:  Kind = WARNING
+12 May 2020 14:50:36 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 44 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:50:55 GMT: diagnostics = javax.tools.DiagnosticCollector@1daa32c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14d348d
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:50:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13ada7a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:50:55 GMT: Compiler call returned
+12 May 2020 14:50:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ff9147
+12 May 2020 14:50:55 GMT:  Kind = ERROR
+12 May 2020 14:50:55 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 15 ColNo = 11 Msg = 'KeyboardPanel cannot be resolved to a type'
+12 May 2020 14:50:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50e0c8
+12 May 2020 14:50:55 GMT:  Kind = ERROR
+12 May 2020 14:50:55 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 15 ColNo = 35 Msg = 'KeyboardPanel cannot be resolved to a type'
+12 May 2020 14:50:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15e6af1
+12 May 2020 14:50:55 GMT:  Kind = WARNING
+12 May 2020 14:50:55 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:50:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e5849a
+12 May 2020 14:50:55 GMT:  Kind = ERROR
+12 May 2020 14:50:55 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 29 ColNo = 12 Msg = 'KeyboardPanel cannot be resolved to a variable'
+12 May 2020 14:51:22 GMT: diagnostics = javax.tools.DiagnosticCollector@351ef9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@969850
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:51:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ab864' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:51:22 GMT: Compiler call returned
+12 May 2020 14:51:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60f0cd
+12 May 2020 14:51:22 GMT:  Kind = ERROR
+12 May 2020 14:51:22 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 15 ColNo = 11 Msg = 'KeyboardPanel cannot be resolved to a type'
+12 May 2020 14:51:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19c2a01
+12 May 2020 14:51:22 GMT:  Kind = ERROR
+12 May 2020 14:51:22 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 15 ColNo = 35 Msg = 'KeyboardPanel cannot be resolved to a type'
+12 May 2020 14:51:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1890088
+12 May 2020 14:51:22 GMT:  Kind = WARNING
+12 May 2020 14:51:22 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:51:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@197d1c3
+12 May 2020 14:51:22 GMT:  Kind = ERROR
+12 May 2020 14:51:22 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 29 ColNo = 12 Msg = 'KeyboardPanel cannot be resolved to a variable'
+12 May 2020 14:51:28 GMT: diagnostics = javax.tools.DiagnosticCollector@1c81361
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c2b4e8
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:51:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10dbd54' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:51:28 GMT: Compiler call returned
+12 May 2020 14:51:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ceab96
+12 May 2020 14:51:28 GMT:  Kind = WARNING
+12 May 2020 14:51:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:51:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a88e91
+12 May 2020 14:51:28 GMT:  Kind = ERROR
+12 May 2020 14:51:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 29 ColNo = 12 Msg = 'KeyboardPanel cannot be resolved to a variable'
+12 May 2020 14:51:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bb3a11
+12 May 2020 14:51:28 GMT:  Kind = WARNING
+12 May 2020 14:51:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 15 ColNo = 23 Msg = 'The value of the field ex10.key is not used'
+12 May 2020 14:51:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1671b67
+12 May 2020 14:51:28 GMT:  Kind = WARNING
+12 May 2020 14:51:28 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 44 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:51:33 GMT: diagnostics = javax.tools.DiagnosticCollector@612b2c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@187a4ee
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:51:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1438d29' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:51:33 GMT: Compiler call returned
+12 May 2020 14:51:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c6af14
+12 May 2020 14:51:33 GMT:  Kind = WARNING
+12 May 2020 14:51:33 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:51:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@251b89
+12 May 2020 14:51:33 GMT:  Kind = ERROR
+12 May 2020 14:51:33 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 29 ColNo = 12 Msg = 'KeyListener cannot be resolved to a variable'
+12 May 2020 14:51:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@596230
+12 May 2020 14:51:33 GMT:  Kind = WARNING
+12 May 2020 14:51:33 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 15 ColNo = 23 Msg = 'The value of the field ex10.key is not used'
+12 May 2020 14:51:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ade6f3
+12 May 2020 14:51:33 GMT:  Kind = WARNING
+12 May 2020 14:51:33 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 44 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:51:39 GMT: diagnostics = javax.tools.DiagnosticCollector@af8b67
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1210692
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:51:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ac1800' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:51:39 GMT: Compiler call returned
+12 May 2020 14:51:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d64fca
+12 May 2020 14:51:39 GMT:  Kind = WARNING
+12 May 2020 14:51:39 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:51:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@eb9dee
+12 May 2020 14:51:39 GMT:  Kind = ERROR
+12 May 2020 14:51:39 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 29 ColNo = 8 Msg = 'The method add(java.awt.Component) in the type java.awt.Container is not applicable for the arguments (ex10.KeyListener)'
+12 May 2020 14:51:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b05a57
+12 May 2020 14:51:39 GMT:  Kind = WARNING
+12 May 2020 14:51:39 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 44 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:52:09 GMT: diagnostics = javax.tools.DiagnosticCollector@1cdc277
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@102021
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:52:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@114c473' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:52:09 GMT: Compiler call returned
+12 May 2020 14:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27eeec
+12 May 2020 14:52:09 GMT:  Kind = WARNING
+12 May 2020 14:52:09 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ac03fd
+12 May 2020 14:52:09 GMT:  Kind = ERROR
+12 May 2020 14:52:09 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 29 ColNo = 8 Msg = 'The method addActionListener(java.awt.event.ActionListener) in the type javax.swing.AbstractButton is not applicable for the arguments (ex10.KeyListener)'
+12 May 2020 14:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e44fda
+12 May 2020 14:52:09 GMT:  Kind = WARNING
+12 May 2020 14:52:09 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 44 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:52:11 GMT: diagnostics = javax.tools.DiagnosticCollector@649eb9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1cf001a
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:52:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f4e57d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:52:11 GMT: Compiler call returned
+12 May 2020 14:52:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b5aaf6
+12 May 2020 14:52:11 GMT:  Kind = WARNING
+12 May 2020 14:52:11 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:52:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73add2
+12 May 2020 14:52:11 GMT:  Kind = ERROR
+12 May 2020 14:52:11 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 29 ColNo = 8 Msg = 'The method add(java.awt.Component) in the type java.awt.Container is not applicable for the arguments (ex10.KeyListener)'
+12 May 2020 14:52:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b41804
+12 May 2020 14:52:11 GMT:  Kind = WARNING
+12 May 2020 14:52:11 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 44 ColNo = 18 Msg = 'The value of the field ex10.KeyListener.keyChar is not used'
+12 May 2020 14:53:48 GMT: diagnostics = javax.tools.DiagnosticCollector@106846f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18deb06
+fileObjects = [D:\bas\java ex\ex10\caculator.java, D:\bas\java ex\ex10\ex10.java]
+12 May 2020 14:53:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1570b58' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\bas\java ex\ex10;D:\bas\java\drjava-beta-20160913-225446 (1).exe]
+12 May 2020 14:53:48 GMT: Compiler call returned
+12 May 2020 14:53:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dc2650
+12 May 2020 14:53:48 GMT:  Kind = WARNING
+12 May 2020 14:53:48 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 7 ColNo = 14 Msg = 'The serializable class ex10 does not declare a static final serialVersionUID field of type long'
+12 May 2020 14:53:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33d9e3
+12 May 2020 14:53:48 GMT:  Kind = WARNING
+12 May 2020 14:53:48 GMT: Name = D:\bas\java ex\ex10\ex10.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'

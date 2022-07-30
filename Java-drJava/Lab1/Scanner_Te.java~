@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class Scanner_Te {
+    public static void main(String [] args) {
+        int x; 
+        Scanner sn = new Scanner(System.in);
+        System.out.print("> Enter inches as an integer:");
+        x = sn.nextInt();
+        System.out.printf("> The value in centimeters is ", 2.54f * (x));
+    }
+}

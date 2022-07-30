@@ -1,0 +1,16 @@
+public class Circle implements CalArea, CalVolume {
+  public double are(){
+    double b = 5;
+    double h = 5;
+    double a;
+    a = 1/2*b*h;
+    return "My area is"+a;
+  }
+  public double volume(){
+    double b = 5;
+    double h = 5;
+    double a;
+    a = 1/2*b*h;
+    return "My area is"+a;
+  }
+}

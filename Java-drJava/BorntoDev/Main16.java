@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class Main16 {
+
+ public static void main(String[] args) {
+  Scanner scan = new Scanner(System.in); // ประกาศตัวแปรเพื่อรับข้อมูลจากคีบอร์ด
+  int num1, num2, num3; // ประกาศตัวแปรเพื่อเก็บตัวเลข 3 ตัว
+
+                num1 = scan.nextInt(); // รอรับข้อมูลตัวเลขที่ 1
+
+                num2 = scan.nextInt(); // รอรับข้อมูลตัวเลขที่ 2
+
+                num3 = scan.nextInt(); // รอรับข้อมูลตัวเลขที่ 3
+
+  int max = num1; // เก็บค่าตัวเลขที่ 1 ไว้ในตัวแปร max รอการเปรีบบเทียบกับตัวอื่น
+  if (num2 > max) { // เปรียบเทียบตัวเลขที่ 2 ถ้าตัวเลขที่ 2 มากกว่าเก็บค่าที่มากกว่าไว้ใน max
+   max = num2; 
+  }
+  if (num3 > max) { // เปรียบเทียบตัวเลขที่ 3 ถ้าตัวเลขที่ 3 มากกว่าเก็บค่าที่มากกว่าไว้ใน max
+   max = num3; 
+  }
+  System.out.println("MAX : " + max); // แสดงค่าตัวแปร max
+ }
+}

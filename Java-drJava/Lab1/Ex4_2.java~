@@ -1,0 +1,37 @@
+import java.util.Scanner;
+public class Ex4_2{
+  public static void main(String[] args){
+    int m,n,o;
+    Scanner sn = new Scanner(System.in);
+    System.out.print("Enter 3 numbers:");
+    m = sn.nextInt();
+    n = sn.nextInt();
+    o = sn.nextInt();
+    sn.close();
+    bbl(m,n,o);
+  }
+  public static void  bbl(int a, int b, int c){
+    int max_d,max_e;
+    int min_f,min_g;
+    max_d = Math.max(a,b);
+    max_e = Math.max(a,c);
+    min_f = Math.min(a,c);
+    min_g = Math.min(b,c);
+    if(max_d==max_e && min_f==min_g)
+    {
+      System.out.println("False");
+    }
+    else if(min_f==min_g)
+    {
+      System.out.println("True");
+    }
+    else if(max_d==max_e)
+    {
+      System.out.println("True");
+    }
+    else
+    {
+      System.out.println("False");
+    }
+  }
+}

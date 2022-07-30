@@ -1,0 +1,26 @@
+import java.util.Scanner;
+public class Hour{
+  public static void main(String[]args) {
+    int y,z,seconds,minutes,hours;
+    Scanner sn = new Scanner(System.in);
+    System.out.print("Enter the number of seconds: ");
+    double x = sn.nextDouble(); //ติดปัญหา x เป็นจำนวนเต็มทำให้รับค่าทศนิยมไม่ได้
+    System.out.println("x = "+x);
+    double a = (x%1); //เช่น 495 % 10 = 5 and 495 / 10 = 49
+    System.out.println("a = "+a); //ในที่สุดก็ได้ทศนิยมมาแล้ว
+    
+    hours = (int)(x/3600);
+    System.out.println("hours = "+hours);
+    
+    y = (int)(x-(hours*3600)); //ที่เหลือจากการคำนวณชั่วโมง
+    System.out.println("y = "+y);
+    
+    minutes = (int)(y/60);
+    System.out.println("minutes = "+minutes);
+    
+    seconds = (int)(x-((hours*3600)+(minutes*60)));
+    System.out.println("seconds = "+seconds);
+    
+    System.out.printf("%f seconds is %d hours, %d minutes, and %d seconds",x,hours,minutes,seconds);
+  } 
+}

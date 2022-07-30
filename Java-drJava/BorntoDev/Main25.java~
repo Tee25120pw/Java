@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Main25{
+ public static void main(String[] args) {
+  Scanner scan = new Scanner(System.in); // สร้างตัวแปรสำหรับรับค่าจากคีบอร์ด
+  int count = scan.nextInt(); // รอรับข้อมูลมาเก็บในตัวแปร count
+  int sum = 0;
+  for (int i = 0; i < count; i++) { // จำนวนชั้นของปิรามิด
+    sum += i;
+   }
+  System.out.println(+sum);
+ }
+}

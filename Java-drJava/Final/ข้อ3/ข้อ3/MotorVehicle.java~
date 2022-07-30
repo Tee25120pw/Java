@@ -1,0 +1,5 @@
+public class MotorVehicle{
+  protected String model;
+  protected String make;
+  protected int year;
+}
